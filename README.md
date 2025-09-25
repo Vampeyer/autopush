@@ -1,5 +1,5 @@
-# autopush
-Autopush Script
+# Autopush
+Autopush Script - too auto push your repository too github / etc.
 
 This is just a python script to auto push too your git hub , 
 just throw it in the root directory with your .git file , 
