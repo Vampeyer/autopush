@@ -8,4 +8,4 @@ and run the script too auto push.
 If you like it or use it , just give me credit and star it , thx. 
 
 
-what about joe ? 
+Joe mamma @Bill gates sucks asshol3 
