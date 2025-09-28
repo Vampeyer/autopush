@@ -6,6 +6,3 @@ just throw it in the root directory with your .git file ,
 and run the script too auto push. 
 
 If you like it or use it , just give me credit and star it , thx. 
-
-
-Joe mamma @Bill gates sucks asshol3 
