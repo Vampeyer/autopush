@@ -9,7 +9,6 @@ def run_git_command(command):
         print(f"Error executing {' '.join(command)}: {e.stderr}", file=sys.stderr)
         sys.exit(1)
 
-
 def main():
     # Stage all changes
     run_git_command(['git', 'add', '.'])
