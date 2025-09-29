@@ -8,6 +8,7 @@ def run_git_command(command):
     except subprocess.CalledProcessError as e:
         print(f"Error executing {' '.join(command)}: {e.stderr}", file=sys.stderr)
         sys.exit(1)
+
         
 def main():
     # Stage all changes
