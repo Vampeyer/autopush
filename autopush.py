@@ -10,6 +10,7 @@ def run_git_command(command):
         sys.exit(1)
 
         
+        
 def main():
     # Stage all changes
     run_git_command(['git', 'add', '.'])
