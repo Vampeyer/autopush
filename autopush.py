@@ -11,12 +11,14 @@ def run_git_command(command):
 
 def main():
     # Stage all changes
+    
     run_git_command(['git', 'add', '.'])
     
     # Commit changes with message 'autopush'
+
     run_git_command(['git', 'commit', '-m', 'autopushed it.'])
     
-    # Push changes to the remote repository ------------------------
+    # Push changes to the remote repository -----------------------
     run_git_command(['git', 'push'])
 
 if __name__ == "__main__":
