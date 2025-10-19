@@ -11,6 +11,7 @@ def run_git_command(command):
 
         
         
+
 def main():
     # Stage all changes
     run_git_command(['git', 'add', '.'])
